@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AprilNine-Web
-- 👀 I’m interested in programming and web development
+- 👀 I’m a web developer
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on programming and web development 
 - 📫 How to reach me:marcelmeboka2015@gmail.com 
